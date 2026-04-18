@@ -8,7 +8,7 @@
 
 ## 🕹️ Aktueller Fokus
 
-Ich baue gerade meinen ersten Casino-Simulator mit echtem Gameplay-Feeling.
+Ich baue gerade meinen ersten großen Casino-Simulator mit echtem Gameplay-Feeling.
 Pygame für Desktop, JavaScript für den Browser — Webentwicklung ist meine Basis.
 
 ---
@@ -18,7 +18,8 @@ Pygame für Desktop, JavaScript für den Browser — Webentwicklung ist meine Ba
 | Projekt | Beschreibung | Tech | Status |
 |---|---|---|---|
 | 🎰 **Gambling Dream** | Casino-Simulator mit Slots, Blackjack & Chips | Python / Pygame | 🔥 Aktiv |
-| 🔢 **Number Guessing Game** | Browser-Game mit Feedback & Validierung | HTML / CSS / JS | ✅ Fertig |
+| 🎰 **Bread Clicker** | Ein Clicker Spiel mit Upgrade und Gambling möglichkeiten | HTML / CSS / JS  | 🔥 Aktiv |
+| 🔢 **Number Guessing Game** | Browser-Game mit Feedback & Validierung | HTML / (CSS) / JS | ✅ Fertig |
 | ⚔️ **Dungeon Crawler** | Roguelike mit Zufalls-Maps, Kämpfen & Loot | Pygame / JS | 🔒 Geplant |
 | 💥 **Megabonk-Style Game** | Physics-basiertes Chaos-Game im Browser | JavaScript | 🔒 Geplant |
 
@@ -73,7 +74,7 @@ Pygame für Desktop, JavaScript für den Browser — Webentwicklung ist meine Ba
 ---
 
 ## 🕹️ Current Focus
-I'm currently building my first Casino Simulator with a real gameplay feeling.
+I'm currently building my first Casino Simulator with a real gameplay feeling as an big Project.
 Pygame for desktop, JavaScript for the browser — web development is my foundation.
 
 ---
@@ -82,6 +83,7 @@ Pygame for desktop, JavaScript for the browser — web development is my foundat
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | 🎰 **Gambling Dream** | Casino simulator with slots, blackjack & chips | Python / Pygame | 🔥 Active |
+| 🎰 **Bread Clicker** | Clicker game with Upgrade and Gambling options | HTML / CSS / JS  | 🔥 Aktive |
 | 🔢 **Number Guessing Game** | Browser game with feedback & validation | HTML / CSS / JS | ✅ Finished |
 | ⚔️ **Dungeon Crawler** | Roguelike with random maps, combat & loot | Pygame / JS | 🔒 Planned |
 | 💥 **Megabonk-Style Game** | Physics-based chaos game in the browser | JavaScript | 🔒 Planned |
