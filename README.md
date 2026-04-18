@@ -57,6 +57,14 @@ Pygame für Desktop, JavaScript für den Browser — Webentwicklung ist meine Ba
 
 *> GAME OVER? NEVER. INSERT COIN TO CONTINUE_*
 
+
+
+
+
+
+
+
+
 ---
 # 👾 HEY, I'M DIO
 ### 🎮 Game Developer in Training | Python · JavaScript · Web
