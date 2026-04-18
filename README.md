@@ -55,8 +55,6 @@ Pygame für Desktop, JavaScript für den Browser — Webentwicklung ist meine Ba
 
 ---
 
-<div align="center">
-
 *> GAME OVER? NEVER. INSERT COIN TO CONTINUE_*
 
 ---
@@ -107,4 +105,3 @@ Pygame for desktop, JavaScript for the browser — web development is my foundat
 ## 📫 Contact
 - ✉️ dionisbani15@icloud.com
 - 🐙 [github.com/Teki11](https://github.com/Teki11)
-</div>
